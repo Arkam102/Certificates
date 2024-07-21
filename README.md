@@ -1,2 +1,2 @@
 # Certificates
-This repo will have all the Certificates and Laurels .
+This repository will have all the Certificates and Laurels .
